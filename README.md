@@ -2,6 +2,10 @@
 
 [![GitHub license](https://img.shields.io/github/license/d-hussar/eslint-plugin?style=flat-square)](https://github.com/d-hussar/eslint-plugin/blob/master/LICENSE)
 
+[![NPM Version](https://img.shields.io/npm/v/@d-hussar/eslint-plugin?style=flat-square)](https://www.npmjs.com/package/@d-hussar/eslint-plugin)
+
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
+
 ## Installation
 
 The plugin uses [`@typescript-eslint/parser`](https://github.com/typescript-eslint/typescript-eslint/blob/master/packages/parser) even for javascript projects.
