@@ -93,5 +93,10 @@ module.exports = {
 
      /* Strict Mode */
     'strict': ['error', 'never'],
+
+    /* Variables */
+    'no-label-var': 'error',
+    'no-undef-init': 'error',
+    'no-use-before-define': 'error',
   },
 };
