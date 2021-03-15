@@ -90,5 +90,8 @@ module.exports = {
      'no-script-url': 'error',
      'no-self-compare': 'error',
      'no-sequences': 'error',
+
+     /* Strict Mode */
+    'strict': ['error', 'never'],
   },
 };
