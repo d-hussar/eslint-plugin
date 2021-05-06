@@ -1,3 +1,15 @@
+# [1.1.0-alpha.3](https://github.com/d-hussar/eslint-plugin/compare/v1.1.0-alpha.2...v1.1.0-alpha.3) (2021-05-06)
+
+
+### Bug Fixes
+
+* change plugin entry point ([156f544](https://github.com/d-hussar/eslint-plugin/commit/156f5440e7ddc0320a55ef70b193d32b062fdf9e))
+
+
+### Features
+
+* add the stylistic issues rules pt.1 ([c542ff5](https://github.com/d-hussar/eslint-plugin/commit/c542ff5d1415172ffbcc07b87b1c116f5288e7b1))
+
 # [1.1.0-alpha.2](https://github.com/d-hussar/eslint-plugin/compare/v1.1.0-alpha.1...v1.1.0-alpha.2) (2021-03-15)
 
 
