@@ -98,5 +98,39 @@ module.exports = {
     'no-label-var': 'error',
     'no-undef-init': 'error',
     'no-use-before-define': 'error',
+
+    /* Stylistic Issues */
+    'array-bracket-newline': ['error', {
+      'minItems': 3,
+    }],
+    'array-bracket-spacing': ['error', 'never'],
+    'array-element-newline': ['error', {
+      'minItems': 3,
+    }],
+    'block-spacing': 'error',
+    'brace-style': [
+      'error',
+      '1tbs',
+      {
+        'allowSingleLine': true,
+      },
+    ],
+    'camelcase': 'error',
+    'comma-dangle': ['error', 'always-multiline'],
+    'comma-spacing': 'error',
+    'comma-style': ['error', 'last'],
+    'computed-property-spacing': ['error', 'never'],
+    'eol-last': ['error', 'always'],
+    'func-call-spacing': ['error', 'never'],
+    'func-style': [
+      'error',
+      'declaration',
+      {
+        'allowArrowFunctions': true,
+      },
+    ],
+    'function-call-argument-newline': ['error', 'consistent'],
+    'function-paren-newline': ['error', 'multiline'],
+    'implicit-arrow-linebreak': ['error', 'beside'],
   },
 };
