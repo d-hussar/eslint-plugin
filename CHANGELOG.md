@@ -1,3 +1,10 @@
+# [1.1.0-alpha.4](https://github.com/d-hussar/eslint-plugin/compare/v1.1.0-alpha.3...v1.1.0-alpha.4) (2021-05-21)
+
+
+### Bug Fixes
+
+* change some rules ([28123ee](https://github.com/d-hussar/eslint-plugin/commit/28123ee79bc8e84de6503b9340610ebe1923f624))
+
 # [1.1.0-alpha.3](https://github.com/d-hussar/eslint-plugin/compare/v1.1.0-alpha.2...v1.1.0-alpha.3) (2021-05-06)
 
 
