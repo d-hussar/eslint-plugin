@@ -74,7 +74,7 @@ module.exports = {
      'no-magic-numbers': [
        "error",
        {
-         'ignore': [1, 2],
+         'ignore': [0, 1, 2],
          'ignoreArrayIndexes': true,
          'enforceConst': true,
        },
@@ -100,13 +100,15 @@ module.exports = {
     'no-use-before-define': 'error',
 
     /* Stylistic Issues */
-    'array-bracket-newline': ['error', {
-      'minItems': 3,
-    }],
+    'array-bracket-newline': ['error', 'consistent'],
     'array-bracket-spacing': ['error', 'never'],
-    'array-element-newline': ['error', {
-      'minItems': 3,
-    }],
+    'array-element-newline': [
+      'error',
+      {
+        'multiline': true,
+        'minItems': 3,
+      },
+    ],
     'block-spacing': 'error',
     'brace-style': [
       'error',

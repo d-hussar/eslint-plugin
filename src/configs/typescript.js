@@ -7,4 +7,8 @@ module.exports = {
     'plugin:@d-hussar/javascript',
     'plugin:@typescript-eslint/recommended',
   ],
+  rules: {
+    'no-use-before-define': 'off',
+    '@typescript-eslint/no-use-before-define': 'error',
+  },
 };
